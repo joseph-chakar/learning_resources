@@ -1,6 +1,6 @@
 # Learning Resources
 
-Having a background in mechanical engineering, I wouldn't have been able to get into the field of applied ML for PV if it weren't for these excellent (and mostly free) online resources:
+Having a background in mechanical engineering, I wouldn't have been able to learn how to use machine learning techniques for solar (PV) applications if it weren't for these excellent (and mostly free) online resources:
 
 PV:
 - https://www.pveducation.org/pvcdrom/introduction/introduction
@@ -14,9 +14,10 @@ Python programming:
 AI:
 - https://www.coursera.org/specializations/deep-learning
 
+
 <p align="center">
-  <em>#ifyouknowyouknow</em>
+  <img src="https://preview.redd.it/op96es9026wy.png?auto=webp&s=74269abc15f887074dd247547dc797e364096867", width=300/>
 </p>
 <p align="center">
-  <img src="https://preview.redd.it/op96es9026wy.png?auto=webp&s=74269abc15f887074dd247547dc797e364096867">
+  <em>#ifyouknowyouknow</em>
 </p>
